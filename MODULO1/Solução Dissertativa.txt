@@ -1,0 +1,15 @@
+Solução Dissertativa
+
+#digito1 = n1 - 1
+#digito2 = 10 - n
+#9 x n = digito1 x 10 + digito2
+
+1. Ler e armazenar N que será multiplicado por 9 
+
+2. Subtrair N por 1 e armazenar como o primeiro dígito n1
+
+3. Subtrair 10 - n e armazenar como o segundo dígito n2
+
+4. Calcular (n1 x 10) + n1
+
+5. Apresentar n1 e n2 e terminar
